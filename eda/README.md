@@ -28,16 +28,11 @@ All the materials of the course are freely available, so you can replicate them 
 ## SYLLABUS
 ## Learning Format
 
-- [level 0: EDA](eda)
-- [level 1: WEBSCRAPPING](webscrapping)
-- [level 2: REGRESSION ](regression)
-- [level 3: CLASSIFICATION](classification)
-- [level 4: RECOMMENDATION](recommendation)
-- [level 5: NLP](nlp)
-- [level 6: CLUSTERING](clustering)
-- [level 7 ANN](ann)
-- [level 8: CVNN](cvnn)
-- [level 9: LLM](llm)
+- [level 0: FOOD](food-analysis)
+- [level 1: MOVIE](movie_analysis)
+- [level 2: NETFLIX](netflix_analysis)
+- [level 3: OLYMPICS](olympics_games_analysis)
+- [level 4: NEW-YORK TAXI](taxi-big)
 
 ## ARTCLE WALKTHROUGH
 You can read some select articles about the different [here](#)
